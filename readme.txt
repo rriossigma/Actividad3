@@ -1,0 +1,3 @@
+- Crear un vector del 3 a tu edad
+- Crear un arreglo de 5 valores
+- Arreglar de forma ascendente los valores
